@@ -1,5 +1,7 @@
 # M2_Seat_Temperature_Detector
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4e217d6d4e9c446aabc894e716d28012)](https://app.codacy.com/gh/KeeKs36/M2_Seat_Temperature_Detector?utm_source=github.com&utm_medium=referral&utm_content=KeeKs36/M2_Seat_Temperature_Detector&utm_campaign=Badge_Grade_Settings)
+
 The Vehicle Seat Heat Monitoring System is capable of maintaining of heat in the vehicles seats. In European countries, the temperature is very low and any electronic designer should make sure that his equipment should work efficiently in that whether. In our project, the sensor will sense is the driver has been seated or not and if the driver seated then he need to set the temperature accordingly. Based on that our controller will set the heater to required temperature. The Heater will generate the heat and a LCD display will show requested the temperature.In our project we have used ATmega328 microcontroller along with temperature sensor, Push button, Heat generator, LED and LCD diplay,etc.
 
 
