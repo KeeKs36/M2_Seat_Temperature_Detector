@@ -12,4 +12,5 @@ The Vehicle Seat Heat Detecting System is capable of maintaining of heat in the 
 | `6_ImagesAndVideos`      | Simulation Images and Videos|
 
 
+## Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b6b98c6e2e864a36bee45c584d360bff)](https://www.codacy.com/gh/KeeKs36/M2_Seat_Temperature_Detector/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KeeKs36/M2_Seat_Temperature_Detector&amp;utm_campaign=Badge_Grade)
