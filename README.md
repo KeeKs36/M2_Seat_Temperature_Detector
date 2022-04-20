@@ -17,3 +17,6 @@ The Vehicle Seat Heat Detecting System is capable of maintaining of heat in the 
 
 ## Cppcheck
 [![Cppcheck](https://github.com/KeeKs36/M2_Seat_Temperature_Detector/actions/workflows/Codequality.yml/badge.svg)](https://github.com/KeeKs36/M2_Seat_Temperature_Detector/actions/workflows/Codequality.yml)
+
+## Compile Linux
+[![Compile-Linux](https://github.com/KeeKs36/M2_Seat_Temperature_Detector/actions/workflows/Compile.yml/badge.svg)](https://github.com/KeeKs36/M2_Seat_Temperature_Detector/actions/workflows/Compile.yml)
